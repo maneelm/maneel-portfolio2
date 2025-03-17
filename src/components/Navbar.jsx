@@ -117,7 +117,7 @@ export const Navbar = ({ menuopen, setmenuopen }) => {
                             </a>
                         ))}
                         <a 
-                            href="/maneel-porfolio2/resume_maneel.pdf" 
+                            href="/maneel-portfolio2/resume_maneel.pdf" 
                             className="px-4 py-2 bg-blue-600 hover:bg-blue-500 text-white rounded-md transition-all duration-300 font-medium text-sm uppercase tracking-wide shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40"
                             target="_blank"
                             rel="noopener noreferrer"
